@@ -15,7 +15,11 @@ To view this webpage you will need to clone it;
 1. Clone the repository
    git clone https://github.com/ashley-aa511/CV.git
 
-2. Open the index.html in a browser with live preview
+2. Open the index.html in a browser with a live preview
+
+## Project Deployment
+I deployed my project on Vercel for easy access and its free usability
+link: https://cv-3zilv56ul-val2491s-projects.vercel.app/
 
 ## License
 This project is licensed under the terms of the MIT license
