@@ -21,5 +21,8 @@ To view this webpage you will need to clone it;
 I deployed my project on Vercel for easy access and its free usability
 link: https://cv-3zilv56ul-val2491s-projects.vercel.app/
 
+## Project page
+https://roadmap.sh/projects/single-page-cv
+
 ## License
 This project is licensed under the terms of the MIT license
