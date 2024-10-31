@@ -19,8 +19,7 @@ To view this webpage you will need to clone it;
 
 ## Project Deployment
 I deployed my project on Vercel for easy access and its free usability
-link: https://cv-3zilv56ul-val2491s-projects.vercel.app/
-
+link: https://cv-7qrk9gbl2-val2491s-projects.vercel.app/
 ## Project page
 https://roadmap.sh/projects/single-page-cv
 
